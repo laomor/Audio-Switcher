@@ -93,9 +93,8 @@ build.cmd
 原始许可证：Microsoft Public License (MS‑PL)
 
 ## 本衍生版本信息
-修改维护者：laomor
-
-衍生版本仓库：https://github.com/laomor/Audio‑Switcher
+修改维护者：laomor<br>
+衍生版本仓库：https://github.com/laomor/Audio‑Switcher<br>
 本版本在原版基础上进行自定义开发、功能调整与问题修复。
 > 重要：分发本软件（源码或编译后的 exe）时，必须保留完整 MS‑PL 许可证文本，保留原始版权与归属声明，不得移除原始项目来源信息。
 
