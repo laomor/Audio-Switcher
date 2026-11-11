@@ -43,16 +43,16 @@
 
 ## 常见问题
 
-**问：弹窗说「Audio Switcher 已在运行」。**
+**问：弹窗说「Audio Switcher 已在运行」。** <br>
 它已经在托盘里跑着了，从托盘区找那个小喇叭图标就行，不用再开一个。
 
-**问：设置改过，重启后又变回去了。**
+**问：设置改过，重启后又变回去了。** <br>
 去看看 `%LocalAppData%\AudioSwitcher\` 这个文件夹能不能写——文件夹设成只读、磁盘写满、或者被安全软件锁住，都会导致设置存不下来。
 
-**问：热键按了没反应。**
+**问：热键按了没反应。** <br>
 多半是这个组合键被别的软件占了（卡片里会提示你）。换一个组合键，或者先找出是谁占了它。
 
-**问：我把 exe 解压在压缩包里直接运行，勾了自启却没生效。**
+**问：我把 exe 解压在压缩包里直接运行，勾了自启却没生效。** <br>
 这是故意设计的：程序发现自己在临时目录里跑，就不会写开机自启。因为临时目录随时会被清理，写进去只会让你下次开机看到一个「找不到程序」的报错。把 exe 挪到固定的文件夹（比如 `D:\Tools\`）再设置就好。
 
 **问：怎么卸载？**
@@ -87,23 +87,17 @@ build.cmd
 本程序为基于 AudioSwitcher_v1 的衍生修改版本，遵循 **Microsoft Public License (MS‑PL)** 开源许可协议。
 
 ## 原始项目信息
-原始项目：AudioSwitcher_v1
-
-原作者：xenolightning (Sean Chapman)
-
-原始仓库地址：https://github.com/xenolightning/AudioSwitcher_v1
-
+原始项目：AudioSwitcher_v1<br>
+原作者：xenolightning (Sean Chapman)<br>
+原始仓库地址：https://github.com/xenolightning/AudioSwitcher_v1<br>
 原始许可证：Microsoft Public License (MS‑PL)
 
 ## 本衍生版本信息
-修改维护者：laomor
-
-衍生版本仓库：https://github.com/laomor/Audio‑Switcher
-
+修改维护者：laomor<br>
+衍生版本仓库：https://github.com/laomor/Audio‑Switcher<br>
 本版本在原版基础上进行自定义开发、功能调整与问题修复。
 > 重要：分发本软件（源码或编译后的 exe）时，必须保留完整 MS‑PL 许可证文本，保留原始版权与归属声明，不得移除原始项目来源信息。
 
 ## MS‑PL 协议声明
-完整 Microsoft Public License 协议文本见 LICENSE 文件。
-
+完整 Microsoft Public License 协议文本见 LICENSE 文件。<br>
 THE SOFTWARE IS LICENSED "AS‑IS." YOU BEAR THE RISK OF USING IT.
