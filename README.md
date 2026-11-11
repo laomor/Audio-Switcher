@@ -3,7 +3,9 @@
 一个放在托盘里的小工具，帮你一键切换默认音箱 / 耳机。
 
 ## 效果预览
-<img src="png/PixPin_2026-11-11_10-21-05.png" ><img src="png/PixPin_2026-11-11_10-28-45.png" >
+<table>
+  <tr><img src="png/PixPin_2026-11-11_10-21-05.png" ><img src="png/PixPin_2026-11-11_10-28-45.png" ></tr>
+</table>
 
 ## 它解决什么问题
 
