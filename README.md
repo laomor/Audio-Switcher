@@ -82,4 +82,23 @@ build.cmd
 - 整份代码只有 31 个 C# 文件，没有引用任何第三方库。
 - 注释写得比较密，风格说明在 [注释规范.md](注释规范.md)。
 
-**关于版权**：代码里的程序集信息写着 `Copyright © 2018 Forty One Ltd.`，命名空间也是 `FortyOne.AudioSwitcher`。如果你是从别人的开源项目改来的，发布前记得确认原项目的许可证并保留署名；如果是自己写的，建议补一个 `LICENSE` 文件。本仓库目前还没有这个文件。
+# 版权说明
+
+本程序为基于 AudioSwitcher_v1 的衍生修改版本，遵循 **Microsoft Public License (MS‑PL)** 开源许可协议。
+
+## 原始项目信息
+原始项目：AudioSwitcher_v1
+原作者：xenolightning (Sean Chapman)
+原始仓库地址：https://github.com/xenolightning/AudioSwitcher_v1
+原始许可证：Microsoft Public License (MS‑PL)
+
+## 本衍生版本信息
+修改维护者：【填写你的名称】
+衍生版本仓库：https://github.com/laomor/Audio‑Switcher
+本版本在原版基础上进行自定义开发、功能调整与问题修复。
+
+> 重要：分发本软件（源码或编译后的 exe）时，必须保留完整 MS‑PL 许可证文本，保留原始版权与归属声明，不得移除原始项目来源信息。
+
+## MS‑PL 协议声明
+完整 Microsoft Public License 协议文本见 LICENSE 文件。
+THE SOFTWARE IS LICENSED "AS‑IS." YOU BEAR THE RISK OF USING IT.
