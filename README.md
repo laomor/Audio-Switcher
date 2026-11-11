@@ -1,4 +1,4 @@
-# Audio Switcher <img src="FortyOne.AudioSwitcher/Resources/SpeakersApp.ico">
+# Audio Switcher <img src="FortyOne.AudioSwitcher/Resources/SpeakersApp.ico" width="16" height="16">
 
 一个放在托盘里的小工具，帮你一键切换默认音箱 / 耳机。
 
