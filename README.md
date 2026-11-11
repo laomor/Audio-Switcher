@@ -4,7 +4,7 @@
 
 ## 效果预览
 <table>
-  <td><img src="png/PixPin_2026-11-11_10-21-05.png" ><img src="png/PixPin_2026-11-11_10-28-45.png" ></td>
+  <td><img src="png/PixPin_2026-11-11_10-21-05.png" ></td><td><img src="png/PixPin_2026-11-11_10-28-45.png" ></td>
 </table>
 
 ## 它解决什么问题
